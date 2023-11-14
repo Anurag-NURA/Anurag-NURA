@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone! My name is Anurag Rawat<br>I am a young developer  with experience in HTML, CSS and JS<br>I have even created some project using framework like <br>React.js for frontend and Express.js for backend API development   <br>
+Hello everyone! My name is Anurag Rawat<br>I am a React developer  with experience in HTML, CSS and JS<br>I have even created some project using framework like <br>React.js for frontend and Express.js for backend API development   <br>
 
 
 ## 🌐 Socials:
