@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hello everyone! My name is Anurag Rawat<br>I am a React developer  with experience in HTML, CSS and JS<br>I have even created some project using framework like <br>React.js for frontend and Express.js for backend API development   <br>
+Hello everyone! 👋
+My name is Anurag Rawat, and I’m a Frontend-focused Web Developer with strong skills in React.js, HTML, CSS, and JavaScript.
+I enjoy building clean, responsive, and user-friendly interfaces, and I have also worked with Express.js to create backend APIs.
+
+My experience includes:
+
+    Developing single-page applications with React.js
+
+    Styling with modern CSS techniques (Flexbox, Grid, animations)
+
+    Using JavaScript ES6+ features for cleaner, more efficient code
+
+    Creating RESTful APIs with Express.js and Node.js
+
+    Integrating frontend and backend for full-stack functionality
+
+I’m passionate about learning new technologies, improving user experiences, and turning ideas into real, working projects. 🚀
 
 
 ## 🌐 Socials:
