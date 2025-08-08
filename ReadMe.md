@@ -4,19 +4,11 @@ My name is Anurag Rawat, and I’m a Frontend-focused Web Developer with strong 
 I enjoy building clean, responsive, and user-friendly interfaces, and I have also worked with Express.js to create backend APIs.
 
 My experience includes:
-
-    Developing single-page applications with React.js
-
-    Styling with modern CSS techniques (Flexbox, Grid, animations)
-
-    Using JavaScript ES6+ features for cleaner, more efficient code
-
-    Creating RESTful APIs with Express.js and Node.js
-
-    Integrating frontend and backend for full-stack functionality
-
-I’m passionate about learning new technologies, improving user experiences, and turning ideas into real, working projects. 🚀
-
+- Developing single-page applications with React.js
+- Styling with modern CSS techniques (Flexbox, Grid, animations)
+- Using JavaScript ES6+ features for cleaner, more efficient code
+- Creating RESTful APIs with Express.js and Node.js
+- Integrating frontend and backend for full-stack functionality
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AnuragZ3K#1718) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuragr1902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-rawat-455047199) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/NURAZ3K) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnuragRawat1902) 
